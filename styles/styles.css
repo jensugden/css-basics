@@ -1,0 +1,35 @@
+h1 {
+  color: hsla(240, 100%, 100%, .5);
+}
+
+p {
+  color: red;
+}
+
+body {
+  background-color: dodgerblue;
+}
+
+img {
+  width: 25%;
+}
+
+p {
+  color: blue;
+}
+
+.purple-text {
+  color: rgba(0, 0, 255, .5);
+}
+
+p {
+  color: orange;
+}
+
+.important {
+  font-weight:bold;
+}
+
+#lead-paragraph {
+  text-align: center;
+}
